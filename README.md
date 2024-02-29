@@ -35,5 +35,3 @@ In this project, I embark on an in-depth investigation of the Google Play Store 
 - Pinpointing high-demand app categories to steer development strategies
 - Honing expertise in data manipulation and visualization using Python
 - Driving data-driven decisions to create top-performing free apps that stand out in the crowded market
-
-18. velopers optimize for different Android versions.
